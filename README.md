@@ -4,3 +4,5 @@ Liczy przestrzeliny i punkty na zdjęciu tarczy strzeleckiej. Aplikacja jest zas
 
 iPhone/iPad: otwórz adres w Safari, wpisz hasło, potem Udostępnij → „Do ekranu początkowego”.
 
+
+Wersja: web-0.9.4-rings
