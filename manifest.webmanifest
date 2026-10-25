@@ -1,0 +1,17 @@
+{
+  "name": "Target AI – liczenie przestrzelin",
+  "short_name": "Target AI",
+  "description": "Liczy przestrzeliny i punkty na zdjęciu tarczy strzeleckiej.",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f10",
+  "theme_color": "#0d0f10",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
